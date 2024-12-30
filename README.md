@@ -9,19 +9,6 @@ This project leverages **K-Means Clustering** to segment customers based on thei
 - **Data Visualization**: Visualize clusters in 2D or 3D to gain intuitive insights into customer groups.  
 - **Scalable Design**: Works with various datasets, allowing easy adaptation for different industries.  
 
-## 📂 Project Structure  
-
-```
-Customer-Segmentation/
-├── data/
-│   ├── customers.csv         # Input dataset
-├── notebooks/
-│   ├── kmeans_segmentation.ipynb  # End-to-end pipeline implementation
-├── src/
-│   ├── preprocessing.py      # Data cleaning and preprocessing functions
-│   ├── clustering.py         # K-Means clustering implementation
-│   ├── visualization.py      # Cluster visualization tools
-├── README.md                  # Project README
 
 ## 🧠 How It Works  
 
