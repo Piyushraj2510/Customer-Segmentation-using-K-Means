@@ -10,7 +10,7 @@ This project leverages **K-Means Clustering** to segment customers based on thei
 - **Scalable Design**: Works with various datasets, allowing easy adaptation for different industries.  
 
 
-## 🧠 How It Works  
+## 🧠 Working  
 
 1. **Data Preprocessing**:  
    - Handles missing values and outliers.  
