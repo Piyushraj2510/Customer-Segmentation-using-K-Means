@@ -1,4 +1,4 @@
-# 📊 Data-Driven Customer Segmentation Using K-Means Clustering
+# 📊 Data-Driven Customer Segmentation Using K-Means Clustering Algoritm
 
 This project leverages **K-Means Clustering** to segment customers based on their behavioral and demographic data, helping businesses to better understand their customer base and personalize marketing strategies.  
 
